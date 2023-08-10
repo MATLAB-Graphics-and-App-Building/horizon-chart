@@ -1,9 +1,13 @@
 # Horizon Chart
 Version 1.0
 
-![](horizonFig.png)
 
 [![View Horizon Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]()
+
+![](horizonFig.png)
+
+## Description
+The Horizon Chart is a data visualization technique that displays time-series data in a compact and layered format, improving readability and enabling comparison of multiple datasets over time.
 
 ## Dependencies
 For optimal performance and accurate graphs, please install the <b> Mapping Toolbox </b>.
